@@ -16,4 +16,4 @@ Unityで制作した盆栽育成ゲームのうち、枝の生成・編集・管
 - 枝・葉オブジェクトの親子関係管理
 - 親枝の曲線上パラメータを使った子枝・葉の追従処理
 
-詳細は[盆栽シミュレーター/README.md](./盆栽シミュレーター/README.md)に記載しています。
+詳細は[bonsai_simulator/README.md](./bonsai_simulator/README.md)に記載しています。
