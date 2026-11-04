@@ -1,6 +1,6 @@
 # 盆栽シミュレーター 技術コード抜粋
 
-[ポートフォリオをで実際のプレイ画面を見る](https://lddos-san.github.io/games.html) ｜ [プレイ動画を見る](https://www.youtube.com/watch?v=Nwdavsh97pw&list=PLg_dwQJGlxvwXczsGahAcecXnoaELAmrG&index=9)
+[ポートフォリオで実際のプレイ画面を見る](https://lddos-san.github.io/games.html) ｜ [プレイ動画を見る](https://www.youtube.com/watch?v=Nwdavsh97pw&list=PLg_dwQJGlxvwXczsGahAcecXnoaELAmrG&index=9)
 
 Unityで制作した盆栽育成ゲームから、枝の生成・編集・管理に関わる主要スクリプトを抜粋したリポジトリです。
 
